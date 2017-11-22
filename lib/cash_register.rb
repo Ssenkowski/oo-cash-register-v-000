@@ -1,9 +1,9 @@
 class Person
 
-attr_accessor: 
+attr_accessor
 
 def initialize()
-  @ = 
+  @ =
 end
 
 
