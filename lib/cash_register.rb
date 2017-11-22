@@ -4,6 +4,7 @@ class Person
 
   def initialize(discount)
     @total = 0
+    @discount = @total*discount
   end
 
 
