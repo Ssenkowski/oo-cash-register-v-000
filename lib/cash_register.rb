@@ -1,6 +1,6 @@
 class CashRegister
 
-  attr_accessor :total
+  attr_accessor :cash_register
 
   def initialize(total)
     cash_register = self.new
