@@ -2,9 +2,8 @@ class Person
 
   attr_accessor :total
 
-  def initialize(discount)
+  def initialize(total)
     @total = 0
-    @discounted_total = @total*discount
   end
 
 
